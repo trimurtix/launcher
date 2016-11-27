@@ -1,0 +1,19 @@
+{
+  "name": "trimurtix-launch-kit-generator",
+  "version": "0.0.3",
+  "description": "Generate icon and splash assets for mobile apps.",
+  "main": "resources.js",
+  "repository": "trimurtix/launch-kit-generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Alexandre",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.21.1"
+  },
+  "devDependencies": {
+    "fs": "0.0.2",
+    "imagemagick": "^0.1.3"
+  }
+}
