@@ -1,9 +1,9 @@
 {
-  "name": "trimurtix-launch-kit-generator",
-  "version": "0.0.3",
-  "description": "Generate icon and splash assets for mobile apps.",
-  "main": "resources.js",
-  "repository": "trimurtix/launch-kit-generator",
+  "name": "trimurtix-launcher",
+  "version": "0.0.1-alpha.1",
+  "description": "Generate and publish apps in the stores (Apple Store and Google Play)",
+  "main": "src/resources.js",
+  "repository": "trimurtix/launcher",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
