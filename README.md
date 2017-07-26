@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.rawgit.com/trimurtix/assets/master/trimurtix/launcher/logo-launcher.png" width="340" /></p>
+# Launcher
 
 ## What is it?
 
